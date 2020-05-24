@@ -1,8 +1,8 @@
-=== Hello Elementor Child ===
+=== Written By Chanee - Hello Elementor Child ===
 
-Contributors: elemntor, KingYes, ariel.k, jzaltzberg, mati1000, bainternet
+Contributors: yosefeliezrie, elemntor, KingYes, ariel.k, jzaltzberg, mati1000, bainternet
 Requires at least: WordPress 4.7
-Tested up to: WordPress 5.2
+Tested up to: WordPress 5.4.2
 Stable tag: 1.0.0
 Version: 1.0.1
 Requires PHP: 5.4
@@ -10,7 +10,7 @@ License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, threaded-comments, translation-ready
 
-The Hello Elementor Child Theme is a starter blank child theme for [Hello Elementor](https://wordpress.org/themes/hello-elementor/) theme.
+The Written By Chanee Theme is a child theme for [Hello Elementor](https://wordpress.org/themes/hello-elementor/) theme.
 
 ***Hello Elementor*** is distributed under the terms of the GNU GPL v3 or later.
 
@@ -25,9 +25,11 @@ Screenshot's images & icons are licensed under: Creative Commons (CC0), https://
 == Installation ==
 
 1. In your admin panel, go to Appearance > Themes and click the 'Add New' button.
-2. Click 'Upload theme' and upload the zipped child
-3. Click on the 'Activate' button to use your new theme right away.
-4. Navigate to Elementor and start building your site.
+2. Search for and install the "Hello Elementor" theme. Do not Activate
+3. In your admin panel, go to Appearance > Themes and click the 'Add New' button.
+4. Click 'Upload theme' and upload the zipped child theme
+5. Click on the 'Activate' button to use your new theme right away.
+6. Navigate to Elementor and start building your site.
 
 == Customizations ==
 
@@ -63,5 +65,5 @@ Source: https://stocksnap.io/photo/4B83RD7BV9
 
 == Changelog ==
 
-= 1.0.0 - 2019-05-23 =
+= 1.0.0 - 2020-05-24 =
 * Initial Public Release
